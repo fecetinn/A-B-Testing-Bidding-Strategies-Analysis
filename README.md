@@ -6,13 +6,13 @@
 ![Testing](https://img.shields.io/badge/Testing-A%2FB%20Testing-orange)
 ![Status](https://img.shields.io/badge/Status-Complete-success)
 
-> **Comprehensive A/B testing framework for comparing Facebook's Maximum Bidding vs Average Bidding strategies using statistical hypothesis testing, with automated assumption checking and business recommendations.**
+> **Comprehensive A/B testing framework for comparing Maximum Bidding vs Average Bidding strategies using statistical hypothesis testing, with automated assumption checking and business recommendations.**
 
 ---
 
 ## 🌟 Overview
 
-This project implements a complete A/B testing pipeline to evaluate the effectiveness of Facebook's new "Average Bidding" strategy against the traditional "Maximum Bidding" approach for bombabomba.com. The analysis employs rigorous statistical testing methodologies, including normality tests, variance homogeneity checks, and appropriate hypothesis testing to deliver data-driven business recommendations.
+This project implements a complete A/B testing pipeline to evaluate the effectiveness of new "Average Bidding" strategy against the traditional "Maximum Bidding" approach for a website. The analysis employs rigorous statistical testing methodologies, including normality tests, variance homogeneity checks, and appropriate hypothesis testing to deliver data-driven business recommendations.
 
 ### 🎯 Key Features
 
@@ -49,7 +49,7 @@ This project implements a complete A/B testing pipeline to evaluate the effectiv
 
 ### Facebook Ads Campaign Dataset
 
-The analysis uses transactional data from bombabomba.com's Facebook advertising campaigns over a 1-month testing period.
+The analysis uses transactional data from a website on a social media advertising campaigns over a 1-month testing period.
 
 **Dataset Structure:**
 - **File Format**: Excel with two sheets
@@ -74,7 +74,7 @@ The analysis uses transactional data from bombabomba.com's Facebook advertising 
 
 ## 🎯 Business Problem
 
-**Challenge**: Facebook recently introduced "Average Bidding" as an alternative to the existing "Maximum Bidding" strategy. Bombabomba.com needs to determine whether this new bidding strategy delivers better conversion rates.
+**Challenge**: The social media platform recently introduced "Average Bidding" as an alternative to the existing "Maximum Bidding" strategy. The website needs to determine whether this new bidding strategy delivers better conversion rates.
 
 ### Key Business Questions
 1. **Performance Comparison**: Does Average Bidding outperform Maximum Bidding in terms of purchases?
