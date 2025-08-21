@@ -47,7 +47,7 @@ This project implements a complete A/B testing pipeline to evaluate the effectiv
 
 ## 📊 Dataset Description
 
-### Facebook Ads Campaign Dataset
+### Ads Campaign Dataset
 
 The analysis uses transactional data from a website on a social media advertising campaigns over a 1-month testing period.
 
@@ -81,7 +81,7 @@ The analysis uses transactional data from a website on a social media advertisin
 2. **Statistical Significance**: Is any observed difference statistically significant?
 3. **Risk Assessment**: What are the risks of switching bidding strategies?
 4. **ROI Impact**: How would the change affect return on investment?
-5. **Implementation Decision**: Should bombabomba.com adopt the new strategy?
+5. **Implementation Decision**: Should the website adopt the new strategy?
 
 ---
 
