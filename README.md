@@ -268,7 +268,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📫 Contact
 
-**Fatih Eren ÇEtin**
+**Fatih Eren Çetin**
 
 <p align="left">
   <a href="https://www.linkedin.com/in/yourprofile" target="_blank" rel="noopener noreferrer">
